@@ -10,13 +10,6 @@
 - [Enhancements](#enhancements)
 - [Task Checklist](#task-checklist)
 
-
-## Standard Recruiter Missteps
-## Standard Technical Recruiter Missteps
-## Framework For Further Proposals Which Can Be Requested
-## Enhancements
-## Task Checklist
-
 ---
 
 ## TeamDecades Web Site Tour
