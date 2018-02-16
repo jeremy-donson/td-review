@@ -58,10 +58,25 @@ No specific industries indicated.
 
 - 
 
-## Proposal 
-- Site Enhancements
+## Framework For Further Proposals Which Can Be Requested
+
+- Web Site Information Design & Format Enhancements
+
+- Web Site Information Architecture Enhancements 
+
 - High-Value Online Learning Options
-- Analysis of Recruiting and Hiring Workflows
+
+- Analysis Targets:
+
+1. Engaging Candidate Attention and Curiosity Workflows
+2. Soliciting Candidate Commitments Workflows
+3. Recruiting Workflows
+4. Client Review & Hiring Workflows
+
 - Feasibility Analysis
+
 - Proofs Of Concept
-- SWOT analysis: https://en.wikipedia.org/wiki/SWOT_analysis
+
+- [SWOT Analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
+
+![SWOT DIAGRAM](images/SWOT_en.svg.png)
