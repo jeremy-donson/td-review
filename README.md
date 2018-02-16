@@ -35,7 +35,7 @@ No specific industries indicated.
 - Will Decades accept every candidate that’s willing to pay the fee?
 - What is your success rate?
 - Why hire Decades?
-- https://www.efinancing-solutions.com/solutions/app.asp?oid=3555
+- [Form For Installment Plan](https://www.efinancing-solutions.com/solutions/app.asp?oid=3555)
 
 8. Clients:  Qualified candidates.  Candidate exclusion..
 
@@ -95,7 +95,7 @@ No specific industries indicated.
 
 7. [Project Planning & Implementation Tools](https://www.atlassian.com/software/jira)
 
-![images](jira-logo.png)
+![Jira Logo](images/jira-logo.png)
 
 ---
 
