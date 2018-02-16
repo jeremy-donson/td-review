@@ -17,19 +17,27 @@ Speaks to high-value clients.
 Multi-location footprint in footer.  
 No specific industries indicated.  
 
-2. About Us:  
+2. About Us:  Our team intro, etc.  Why you need us.
 
-3. Process:  
+3. Process:  Published (Pros/Cons) vs Unpublished Job Markets.
 
-4. Our Team:  
+4. Our Team:  More about our team.  Researchers.  Selection Committee.  Marketing Team.  Writers.
 
-5. Testimonials:  
+5. Testimonials:  Half-dozen+ paragraphs of success stories.   NEXT PAGE LINK BROKEN!
 
-6. Contact Us:  
+6. Contact Us:  Standard form.
 
 7. FAQ:  
+- What is the difference between working with Decades and working with a recruiter?
+- How does Decades differ from its competitors?
+- What industries do you specialize in?
+- Can Decades effectively assist me if I’m unwilling (or unable) to relocate?
+- Will Decades accept every candidate that’s willing to pay the fee?
+- What is your success rate?
+- Why hire Decades?
+- https://www.efinancing-solutions.com/solutions/app.asp?oid=3555
 
-8. Clients:  
+8. Clients:  Qualified candidates.  Candidate exclusion..
 
 ## 2018 Web Site Review
 
@@ -58,25 +66,43 @@ No specific industries indicated.
 
 - 
 
+---
+
 ## Framework For Further Proposals Which Can Be Requested
 
-- Web Site Information Design & Format Enhancements
+1. Web Site Information Design & Format Enhancements
 
-- Web Site Information Architecture Enhancements 
+2. Web Site Information Architecture Enhancements 
 
-- High-Value Online Learning Options
+3. High-Value Online Learning Options
 
-- Analysis Targets:
+4. Workflow Analysis Targets:
 
-1. Engaging Candidate Attention and Curiosity Workflows
-2. Soliciting Candidate Commitments Workflows
-3. Recruiting Workflows
-4. Client Review & Hiring Workflows
+* [Request For Proposal Workflows](https://www.newmediacampaigns.com/blog/website-design-request-for-proposal-template-tips)
+* Engaging Candidate Attention and Curiosity Workflows
+* Candidate Commitment Solicitation Workflows
+* Candidate Recruiting Workflows
+* Client Review & Hiring Workflows
+* Course Training Workflows
 
-- Feasibility Analysis
-
-- Proofs Of Concept
+5. Feasibility Analysis For Any New Initiative
 
 - [SWOT Analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
 
 ![SWOT DIAGRAM](images/SWOT_en.svg.png)
+
+6. Proofs Of Concept Proposals
+
+7. [Project Planning & Implementation Tools](https://www.atlassian.com/software/jira)
+
+![images](jira-logo.png)
+
+---
+
+## Enhancements
+
+---
+
+## Task Checklist
+
+---
