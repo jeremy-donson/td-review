@@ -4,6 +4,19 @@
 
 - [TeamDecades Web Site Tour](#teamdecades-web-site-tour)
 - [2018 Web Site Review](#2018-web-site-review)
+- [Standard Recruiter Missteps](#standard-recruiter-missteps)
+- [Standard Technical Recruiter Missteps](#standard-technical-recruiter-missteps)
+- [Framework For Further Proposals Which Can Be Requested](#framework-for-further-proposals-which-can-be-requested)
+- [Enhancements](#enhancements)
+- [Task Checklist](#task-checklist)
+
+
+## Standard Recruiter Missteps
+## Standard Technical Recruiter Missteps
+## Framework For Further Proposals Which Can Be Requested
+## Enhancements
+## Task Checklist
+
 ---
 
 ## TeamDecades Web Site Tour
